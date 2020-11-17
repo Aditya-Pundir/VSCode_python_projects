@@ -1,2 +1,2 @@
-# VSCode_projects
-This is repository of my vscode projects
+# VSCode_projects_1
+This is part 1 of my vscode projects
